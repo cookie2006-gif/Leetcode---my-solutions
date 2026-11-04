@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0175-combine-two-tables/) | Easy |
 | [1495-friendly-movies-streamed-last-month](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1495-friendly-movies-streamed-last-month/) | Easy |
 | [3497-analyze-subscription-conversion](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/3497-analyze-subscription-conversion/) | Medium |
 ## Array
