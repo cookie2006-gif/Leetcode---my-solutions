@@ -18,9 +18,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0011-container-with-most-water/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0011-container-with-most-water/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
