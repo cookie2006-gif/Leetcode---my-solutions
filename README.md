@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1204-last-person-to-fit-in-the-bus](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1495-friendly-movies-streamed-last-month](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1495-friendly-movies-streamed-last-month/) | Easy |
 | [3421-find-students-who-improved](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/3421-find-students-who-improved/) | Medium |
+| [3475-dna-pattern-recognition](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/3475-dna-pattern-recognition/) | Medium |
 | [3497-analyze-subscription-conversion](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/3497-analyze-subscription-conversion/) | Medium |
 ## Array
 | Problem Name | Difficulty |
