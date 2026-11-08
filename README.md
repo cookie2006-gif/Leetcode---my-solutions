@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0184-department-highest-salary](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0184-department-highest-salary/) | Medium |
 | [0550-game-play-analysis-iv](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0585-investments-in-2016](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0585-investments-in-2016/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1495-friendly-movies-streamed-last-month](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1495-friendly-movies-streamed-last-month/) | Easy |
