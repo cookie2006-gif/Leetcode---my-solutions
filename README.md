@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0055-jump-game/) | Medium |
 | [0139-word-break](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0139-word-break/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0055-jump-game/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0055-jump-game](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0055-jump-game/) | Medium |
 | [0139-word-break](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0139-word-break/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
