@@ -14,12 +14,12 @@ class Solution:
                         break
         return dp[0]
 
-        for i in range(n-2, -1, -1):
-            for j in range(nums[i]):
-                if dp[i+j] or dp[(i+j)%n]:
-                    dp[i] = True
-                    break
-        return dp[0]
+        # for i in range(n-2, -1, -1):
+        #     for j in range(nums[i]):
+        #         if dp[i+j] or dp[(i+j)%n]:
+        #             dp[i] = True
+        #             break
+        # return dp[0]
     
 
 
