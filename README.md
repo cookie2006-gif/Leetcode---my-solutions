@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0626-exchange-seats](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0626-exchange-seats/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1321-restaurant-growth](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1321-restaurant-growth/) | Medium |
 | [1495-friendly-movies-streamed-last-month](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1495-friendly-movies-streamed-last-month/) | Easy |
 | [3421-find-students-who-improved](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/3421-find-students-who-improved/) | Medium |
 | [3475-dna-pattern-recognition](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/3475-dna-pattern-recognition/) | Medium |
