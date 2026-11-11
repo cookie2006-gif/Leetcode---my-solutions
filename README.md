@@ -74,4 +74,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0139-word-break/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
