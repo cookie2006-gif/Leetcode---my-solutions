@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1321-restaurant-growth](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1321-restaurant-growth/) | Medium |
 | [1341-movie-rating](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1341-movie-rating/) | Medium |
 | [1495-friendly-movies-streamed-last-month](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1495-friendly-movies-streamed-last-month/) | Easy |
+| [1907-count-salary-categories](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1907-count-salary-categories/) | Medium |
 | [3421-find-students-who-improved](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/3421-find-students-who-improved/) | Medium |
 | [3475-dna-pattern-recognition](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/3475-dna-pattern-recognition/) | Medium |
 | [3497-analyze-subscription-conversion](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/3497-analyze-subscription-conversion/) | Medium |
