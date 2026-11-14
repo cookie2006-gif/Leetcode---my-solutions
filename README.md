@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3421-find-students-who-improved](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/3421-find-students-who-improved/) | Medium |
 | [3475-dna-pattern-recognition](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/3475-dna-pattern-recognition/) | Medium |
 | [3497-analyze-subscription-conversion](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/3497-analyze-subscription-conversion/) | Medium |
+| [3564-seasonal-sales-analysis](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/3564-seasonal-sales-analysis/) | Medium |
 | [3601-find-drivers-with-improved-fuel-efficiency](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/3601-find-drivers-with-improved-fuel-efficiency/) | Medium |
 ## Array
 | Problem Name | Difficulty |
