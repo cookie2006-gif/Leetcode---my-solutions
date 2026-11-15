@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [0577-employee-bonus](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0585-investments-in-2016](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0585-investments-in-2016/) | Medium |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [0608-tree-node](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0608-tree-node/) | Medium |
