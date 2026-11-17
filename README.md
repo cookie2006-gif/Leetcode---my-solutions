@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0608-tree-node](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0608-tree-node/) | Medium |
 | [0620-not-boring-movies](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0626-exchange-seats/) | Medium |
+| [0627-swap-sex-of-employees](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1321-restaurant-growth](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/1321-restaurant-growth/) | Medium |
