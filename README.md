@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0585-investments-in-2016](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0585-investments-in-2016/) | Medium |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
+| [0607-sales-person](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0607-sales-person/) | Easy |
 | [0608-tree-node](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0608-tree-node/) | Medium |
 | [0620-not-boring-movies](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0626-exchange-seats/) | Medium |
