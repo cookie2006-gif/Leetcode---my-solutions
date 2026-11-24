@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0039-combination-sum](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0055-jump-game](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0055-jump-game/) | Medium |
 | [0139-word-break](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0139-word-break/) | Medium |
 ## Two Pointers
@@ -120,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
