@@ -1,1 +1,32 @@
-WITH d AS (SELECT visited_on, SUM(amount) AS amount FROM Customer GROUP BY visited_on) SELECT a.visited_on, SUM(b.amount) AS amount, ROUND(SUM(b.amount) / 7, 2) AS average_amount FROM d a JOIN d b ON b.visited_on BETWEEN DATE_SUB(a.visited_on, INTERVAL 6 DAY) AND a.visited_on WHERE a.visited_on >= (SELECT DATE_ADD(MIN(visited_on), INTERVAL 6 DAY) FROM d) GROUP BY a.visited_on ORDER BY a.visited_on;
+# Write your MySQL query statement below
+WITH DailyTotals AS (
+    SELECT 
+        visited_on, 
+        SUM(amount) AS daily_amount
+    FROM Customer
+    GROUP BY visited_on
+),
+MovingWindow AS (
+    SELECT 
+        visited_on,
+        SUM(daily_amount) OVER (
+            ORDER BY visited_on 
+            RANGE BETWEEN INTERVAL 6 DAY PRECEDING AND CURRENT ROW
+        ) AS amount,
+        ROUND(
+            AVG(daily_amount) OVER (
+                ORDER BY visited_on 
+                RANGE BETWEEN INTERVAL 6 DAY PRECEDING AND CURRENT ROW
+            ), 
+            2
+        ) AS average_amount,
+        MIN(visited_on) OVER () AS first_day
+    FROM DailyTotals
+)
+SELECT 
+    visited_on, 
+    amount, 
+    average_amount
+FROM MovingWindow
+WHERE visited_on >= DATE_ADD(first_day, INTERVAL 6 DAY)
+ORDER BY visited_on;
