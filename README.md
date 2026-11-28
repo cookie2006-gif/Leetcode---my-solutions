@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0035-search-insert-position](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0039-combination-sum/) | Medium |
 | [0055-jump-game](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0055-jump-game/) | Medium |
 | [0139-word-break](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0139-word-break/) | Medium |
@@ -129,4 +130,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0039-combination-sum/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
