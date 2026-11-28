@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0067-add-binary](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0067-add-binary/) | Easy |
 | [0139-word-break](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0139-word-break/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -134,4 +135,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0035-search-insert-position/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0067-add-binary/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0067-add-binary/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/cookie2006-gif/Leetcode---my-solutions/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
